@@ -1,4 +1,4 @@
-# BeastBounds
+# BeastBounds - _Unleash The Creatures Lost To Time_
 
 ![Banner](https://raw.githubusercontent.com/TheNovaStudios/beastbounds/refs/heads/main/banner.png)
 
